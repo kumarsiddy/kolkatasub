@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1016117515540",
+    "firebase_url": "https://kolkata-sub-36763.firebaseio.com",
+    "project_id": "kolkata-sub-36763",
+    "storage_bucket": "kolkata-sub-36763.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016117515540:android:09fc7a3c0177758f",
+        "android_client_info": {
+          "package_name": "in.freakydevs.kolkatasub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016117515540-04aihmid0ils0gi1ug80dh06o8ak0r1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.freakydevs.kolkatasub",
+            "certificate_hash": "a9c1df0ed83465246eb6c205592db9135ac458b5"
+          }
+        },
+        {
+          "client_id": "1016117515540-lt5locs108892arbghbbon60mg6ne91v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG87YO47KnHpGlvjMCouk2cNluwHKcv7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016117515540-lt5locs108892arbghbbon60mg6ne91v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

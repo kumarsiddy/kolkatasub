@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Train">
+        <menu>
+
+            <item
+                android:id="@+id/nav_home"
+                android:icon="@drawable/ic_home"
+                android:title="Home" />
+            <item
+                android:id="@+id/nav_train_route"
+                android:icon="@drawable/ic_train"
+                android:title="Train Route" />
+            <item
+                android:id="@+id/nav_pnr"
+                android:icon="@drawable/ic_pnr"
+                android:title="PNR Status" />
+
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_rateus"
+                android:icon="@drawable/ic_rate"
+                android:title="Rate Us" />
+            <item
+                android:id="@+id/nav_contactus"
+                android:icon="@drawable/ic_contact"
+                android:title="Contact Us" />
+
+            <item
+                android:id="@+id/nav_aboutus"
+                android:icon="@drawable/ic_about"
+                android:title="About Us" />
+
+        </menu>
+    </item>
+
+    <item android:title="Update">
+        <menu>
+            <item
+                android:id="@+id/nav_appupdate"
+                android:icon="@drawable/ic_appupdate"
+                android:title="App Update" />
+            <item
+                android:id="@+id/nav_databaseupdate"
+                android:icon="@drawable/ic_database"
+                android:title="Database Update" />
+        </menu>
+    </item>
+
+    <item android:title="More">
+        <menu>
+
+            <item
+                android:id="@+id/remove_ad"
+                android:icon="@drawable/ic_remove_ad"
+                android:title="Remove Ad" />
+
+            <item
+                android:id="@+id/buy_me_cofee"
+                android:icon="@drawable/ic_cofee"
+                android:title="Buy Me a Coffee" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#423f4d</color>
+    <color name="colorPrimaryDark">#3a3743</color>
+    <color name="colorContactusPrimary">#1F909C</color>
+    <color name="colorAccent">#f16362</color>
+    <color name="colorAccentDark">#ea6160</color>
+    <color name="white">#ffffff</color>
+    <color name="whitegrey">#d7d9de</color>
+    <color name="whitesnow">#f4f3f3</color>
+    <color name="black">#000000</color>
+    <color name="colorSecondAccent">#8ecf93</color>
+    <color name="colorPnrTop">#59c9a5</color>
+</resources>
