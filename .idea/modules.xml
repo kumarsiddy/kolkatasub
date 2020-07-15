@@ -4,7 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kolkata-sub.iml" filepath="$PROJECT_DIR$/.idea/kolkata-sub.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kolkata-sub.iml" filepath="$PROJECT_DIR$/kolkata-sub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/kolkata-sub-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/kolkata-sub-app.iml" group="kolkata-sub/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab-kolkata-sub.iml" filepath="$PROJECT_DIR$/.idea/modules/lab-kolkata-sub.iml" group="kolkata-sub" />
     </modules>
   </component>
 </project>
